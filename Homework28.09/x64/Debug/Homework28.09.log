@@ -1,0 +1,16 @@
+﻿  Homework28.09.cpp
+D:\Проекты\Homework28.09\Homework28.09.cpp(21,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Проекты\Homework28.09\Homework28.09.cpp(36,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Проекты\Homework28.09\Homework28.09.cpp(36,28): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Проекты\Homework28.09\Homework28.09.cpp(44,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Проекты\Homework28.09\Homework28.09.cpp(44,34): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Проекты\Homework28.09\Homework28.09.cpp(82,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Проекты\Homework28.09\Homework28.09.cpp(82,25): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Проекты\Homework28.09\Homework28.09.cpp(108,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Проекты\Homework28.09\Homework28.09.cpp(137,11): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Проекты\Homework28.09\Homework28.09.cpp(137,14): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Проекты\Homework28.09\Homework28.09.cpp(189,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Проекты\Homework28.09\Homework28.09.cpp(189,36): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Проекты\Homework28.09\Homework28.09.cpp(208,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Проекты\Homework28.09\Homework28.09.cpp(208,35): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  Homework28.09.vcxproj -> D:\Проекты\Homework28.09\x64\Debug\Homework28.09.exe
